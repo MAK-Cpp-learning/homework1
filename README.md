@@ -16,7 +16,7 @@
 
 Название файла и опции передаются через аргументы командной строки в следующем формате:
 
-_**WordCount.exe [OPTION] filename **_
+_**WordCount.exe [OPTION] filename**_
 
 Формат вывода (без заданных опций):
   lines words bytes filename
